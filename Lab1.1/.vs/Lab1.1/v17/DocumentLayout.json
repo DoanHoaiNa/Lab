@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09F4BA7B-0E9A-456F-AE01-3423B13A13D4}|Bai10\\Bai10.csproj|c:\\users\\dthdo\\onedrive\\documents\\visual studio 2022\\lab\\lab1.1\\bai10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F4BA7B-0E9A-456F-AE01-3423B13A13D4}|Bai10\\Bai10.csproj|solutionrelative:bai10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B982E58-C070-4597-A11B-BFF3B534E8E8}|Bai9\\Bai9.csproj|c:\\users\\dthdo\\onedrive\\documents\\visual studio 2022\\lab\\lab1.1\\bai9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B982E58-C070-4597-A11B-BFF3B534E8E8}|Bai9\\Bai9.csproj|solutionrelative:bai9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A905EDF-DC48-4AA5-93FC-869C083E9DD6}|Bai8\\Bai8.csproj|c:\\users\\dthdo\\onedrive\\documents\\visual studio 2022\\lab\\lab1.1\\bai8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A905EDF-DC48-4AA5-93FC-869C083E9DD6}|Bai8\\Bai8.csproj|solutionrelative:bai8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264F1046-5BCF-4AE9-B27B-97347921701F}|Bai7\\Bai7.csproj|c:\\users\\dthdo\\onedrive\\documents\\visual studio 2022\\lab\\lab1.1\\bai7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264F1046-5BCF-4AE9-B27B-97347921701F}|Bai7\\Bai7.csproj|solutionrelative:bai7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2323ECDA-17E8-4DF9-BA9E-053854ED51AB}|Bai6\\Bai6.csproj|c:\\users\\dthdo\\onedrive\\documents\\visual studio 2022\\lab\\lab1.1\\bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2323ECDA-17E8-4DF9-BA9E-053854ED51AB}|Bai6\\Bai6.csproj|solutionrelative:bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C76084-107F-4977-B20C-A1B1FB56E9AE}|Bai5\\Bai5.csproj|c:\\users\\dthdo\\onedrive\\documents\\visual studio 2022\\lab\\lab1.1\\bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C76084-107F-4977-B20C-A1B1FB56E9AE}|Bai5\\Bai5.csproj|solutionrelative:bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CED328-319D-4DA0-BE46-F31664A450FD}|Bai4\\Bai4.csproj|c:\\users\\dthdo\\onedrive\\documents\\visual studio 2022\\lab\\lab1.1\\bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CED328-319D-4DA0-BE46-F31664A450FD}|Bai4\\Bai4.csproj|solutionrelative:bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C76084-107F-4977-B20C-A1B1FB56E9AE}|Bai5\\Bai5.csproj|c:\\users\\dthdo\\onedrive\\documents\\visual studio 2022\\lab\\lab1.1\\bai5\\bai5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92C76084-107F-4977-B20C-A1B1FB56E9AE}|Bai5\\Bai5.csproj|solutionrelative:bai5\\bai5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABBA10D-BEA9-40AA-86B1-B491D7915559}|Bai3\\Bai3.csproj|c:\\users\\dthdo\\onedrive\\documents\\visual studio 2022\\lab\\lab1.1\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABBA10D-BEA9-40AA-86B1-B491D7915559}|Bai3\\Bai3.csproj|solutionrelative:bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4C8F69-AF01-4986-9E45-6946C6EF9402}|Bai2\\Bai2.csproj|c:\\users\\dthdo\\onedrive\\documents\\visual studio 2022\\lab\\lab1.1\\bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4C8F69-AF01-4986-9E45-6946C6EF9402}|Bai2\\Bai2.csproj|solutionrelative:bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B239BED-5CB6-42F6-882E-BF861C54E85A}|Lab1.1\\Bai1.csproj|c:\\users\\dthdo\\onedrive\\documents\\visual studio 2022\\lab\\lab1.1\\lab1.1\\bai1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B239BED-5CB6-42F6-882E-BF861C54E85A}|Lab1.1\\Bai1.csproj|solutionrelative:lab1.1\\bai1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B239BED-5CB6-42F6-882E-BF861C54E85A}|Lab1.1\\Bai1.csproj|c:\\users\\dthdo\\onedrive\\documents\\visual studio 2022\\lab\\lab1.1\\lab1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B239BED-5CB6-42F6-882E-BF861C54E85A}|Lab1.1\\Bai1.csproj|solutionrelative:lab1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 87,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bai5.csproj",
+              "DocumentMoniker": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Bai5\\Bai5.csproj",
+              "RelativeDocumentMoniker": "Bai5\\Bai5.csproj",
+              "ToolTip": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Bai5\\Bai5.csproj",
+              "RelativeToolTip": "Bai5\\Bai5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T04:59:16.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Bai10\\Program.cs",
+              "RelativeDocumentMoniker": "Bai10\\Program.cs",
+              "ToolTip": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Bai10\\Program.cs",
+              "RelativeToolTip": "Bai10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T04:55:37.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Bai9\\Program.cs",
+              "RelativeDocumentMoniker": "Bai9\\Program.cs",
+              "ToolTip": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Bai9\\Program.cs",
+              "RelativeToolTip": "Bai9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T04:55:28.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Bai8\\Program.cs",
+              "RelativeDocumentMoniker": "Bai8\\Program.cs",
+              "ToolTip": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Bai8\\Program.cs",
+              "RelativeToolTip": "Bai8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T04:55:12.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Bai7\\Program.cs",
+              "RelativeDocumentMoniker": "Bai7\\Program.cs",
+              "ToolTip": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Bai7\\Program.cs",
+              "RelativeToolTip": "Bai7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T04:55:02.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Bai6\\Program.cs",
+              "RelativeDocumentMoniker": "Bai6\\Program.cs",
+              "ToolTip": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Bai6\\Program.cs",
+              "RelativeToolTip": "Bai6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T04:54:54.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Bai5\\Program.cs",
+              "RelativeDocumentMoniker": "Bai5\\Program.cs",
+              "ToolTip": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Bai5\\Program.cs",
+              "RelativeToolTip": "Bai5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T04:54:45.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Bai4\\Program.cs",
+              "RelativeDocumentMoniker": "Bai4\\Program.cs",
+              "ToolTip": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Bai4\\Program.cs",
+              "RelativeToolTip": "Bai4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T04:54:35.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Bai3\\Program.cs",
+              "RelativeDocumentMoniker": "Bai3\\Program.cs",
+              "ToolTip": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Bai3\\Program.cs",
+              "RelativeToolTip": "Bai3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T04:54:25.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Bai2\\Program.cs",
+              "RelativeDocumentMoniker": "Bai2\\Program.cs",
+              "ToolTip": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Bai2\\Program.cs",
+              "RelativeToolTip": "Bai2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T04:54:04.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Lab1.1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1.1\\Program.cs",
+              "ToolTip": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Lab1.1\\Program.cs",
+              "RelativeToolTip": "Lab1.1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T02:50:32.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bai1.csproj",
+              "DocumentMoniker": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Lab1.1\\Bai1.csproj",
+              "RelativeDocumentMoniker": "Lab1.1\\Bai1.csproj",
+              "ToolTip": "C:\\Users\\dthdo\\OneDrive\\Documents\\Visual Studio 2022\\LAB\\Lab1.1\\Lab1.1\\Bai1.csproj",
+              "RelativeToolTip": "Lab1.1\\Bai1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T04:53:50.279Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
