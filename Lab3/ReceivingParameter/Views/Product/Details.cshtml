@@ -1,0 +1,28 @@
+﻿
+@model List<ReceivingParameter.Models.Product>
+@{
+	ViewData["Title"] = "Details";
+}
+<div class="container col-md-10 offset-md-1">
+	<h3>Danh sach san pham</h3>
+	<table class="table table-bordered">
+		<thead>
+			<tr>
+				<th>Ma san pham</th>
+				<th>Ten san pham</th>
+				<th>Gia tien</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var item in Model)
+			{
+				<tr>
+					<td>@item.Id</td>
+					<td>@item.Name</td>
+					<td>@item.Price</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+</div>
+

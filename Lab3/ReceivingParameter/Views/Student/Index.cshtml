@@ -1,0 +1,27 @@
+﻿@model List<ReceivingParameter.Models.Student>
+@{
+	ViewData["Title"] = "Index";
+}
+<div class="container col-md-10 offset-md-1">
+	<h3>Danh sach sinh vien</h3>
+	<a href = "/Student/Create" class="btn btn-danger mb-3">Them moi</a>
+	<table class="table table-bordered">
+		<thead>
+			<tr>
+				<th>Ma Sinh Vien</th>
+				<th>Ho Ten</th>
+				<th>Dia Chi</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var item in Model)
+			{
+				<tr>
+					<td>@item.Id</td>
+					<td>@item.Name</td>
+					<td>@item.Address</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+</div>
